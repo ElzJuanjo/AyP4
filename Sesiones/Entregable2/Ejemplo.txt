@@ -1,0 +1,10 @@
+DNI;12345678A;Juan Martínez;15/07/1985;Madrid;juanmartinez@gmail.com
+CC;987654321;María García;20/03-1990;Bogotá;mgarcia@hotmail.com
+PAS;AB123456;Carlos Rodríguez;10/09/1980;Barcelona;carlosr@yahoo
+ID;555666777;Ana López;05/12/1978;México DF;anita@elpoli.edu.co
+CI;01234567;Pedro Sanchez;25/06/1995;Lima;pedrosanchez@gmail.com
+DNI;87654321B;Laura Pérez;03/04/1987;Buenos Aires;laurap@yahoo.com
+NIF;98765432C;Sofía Martín;18/10/1983;Sevilla;sofiamartin@hotmail.com
+CI;6543210X;Luisa Hernández;09/01/1992;Santiago;luisah@gmail.com
+CC;A33222111;Daniel Gómez;12/08/1976;Bogotá;danielgomez@yahoo.com
+CI;13579246;Elena González;30/05/1989;Caracas;elenag@yahoo.com
